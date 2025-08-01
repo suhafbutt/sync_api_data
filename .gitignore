@@ -67,3 +67,8 @@ yarn-debug.log*
 /storage/*
 !/storage/.keep
 /public/uploads
+
+tmp/.keep
+vendor/.keep
+storage/.keep
+log/.keep
